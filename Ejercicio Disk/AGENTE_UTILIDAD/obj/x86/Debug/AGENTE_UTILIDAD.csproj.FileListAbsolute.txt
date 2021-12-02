@@ -1,0 +1,18 @@
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\bin\Debug\AGENTE_UTILIDAD.exe
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\bin\Debug\AGENTE_UTILIDAD.pdb
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.AGENTE.resources
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.Properties.Resources.resources
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.exe
+C:\Users\Willi\documents\visual studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.pdb
+C:\Users\Willi\Documents\Visual Studio 2010\Projects\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.Modificar.resources
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.exe
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.pdb
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\bin\Debug\AGENTE_UTILIDAD.exe
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\bin\Debug\AGENTE_UTILIDAD.pdb
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.AGENTE.resources
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\AGENTE_UTILIDAD\AGENTE_UTILIDAD\obj\x86\Debug\AGENTE_UTILIDAD.csproj.GenerateResource.Cache

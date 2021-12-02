@@ -1,0 +1,5 @@
+c:\users\willi\documents\visual studio 2010\Projects\RutaCorta\RutaCorta\bin\Debug\RutaCorta.dll
+c:\users\willi\documents\visual studio 2010\Projects\RutaCorta\RutaCorta\bin\Debug\RutaCorta.pdb
+c:\users\willi\documents\visual studio 2010\Projects\RutaCorta\RutaCorta\obj\Debug\ResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2010\Projects\RutaCorta\RutaCorta\obj\Debug\RutaCorta.dll
+c:\users\willi\documents\visual studio 2010\Projects\RutaCorta\RutaCorta\obj\Debug\RutaCorta.pdb

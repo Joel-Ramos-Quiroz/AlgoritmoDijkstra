@@ -1,0 +1,30 @@
+-------------------------
+RUTA (AB)|     IR AL Este    
+RUTA (AD)|      IR AL Sur
+-------------------------
+RUTA (BA)|    IR AL Oeste
+RUTA (BC)|IRM AL Nordeste
+RUTA (BF)|  IR AL SurEste
+-------------------------
+RUTA (CB)| IR AL SudOeste
+RUTA (CG)|  IR AL SurEste
+-------------------------
+RUTA (DA)|    IR AL Norte
+RUTA (DE)|  IR AL SurEste
+-------------------------
+RUTA (ED)| IR AL NorOeste
+RUTA (EF)|    IR AL Norte
+-------------------------
+RUTA (FB)| IR AL NorOeste
+RUTA (FE)|      IR AL Sur
+RUTA (FH)|  IR AL SurEste
+-------------------------
+RUTA (GC)| IR AL NorOeste
+RUTA (GI)|  IR AL SurEste
+-------------------------
+RUTA (HF)| IR AL NorOeste
+RUTA (HI)| IR AL Nordeste
+-------------------------
+RUTA (IG)| IR AL NorOeste
+RUTA (IH)| IR AL SudOeste
+-------------------------

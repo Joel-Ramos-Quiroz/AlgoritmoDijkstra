@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGENTE_UTILIDAD", "AGENTE_UTILIDAD\AGENTE_UTILIDAD.csproj", "{DDF4B6B9-4874-423D-B118-9610A9207170}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{6A12835F-6BEC-48A8-9C2D-EC610DC1179F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF4B6B9-4874-423D-B118-9610A9207170}.Debug|x86.ActiveCfg = Debug|x86
+		{DDF4B6B9-4874-423D-B118-9610A9207170}.Debug|x86.Build.0 = Debug|x86
+		{DDF4B6B9-4874-423D-B118-9610A9207170}.Release|x86.ActiveCfg = Release|x86
+		{DDF4B6B9-4874-423D-B118-9610A9207170}.Release|x86.Build.0 = Release|x86
+		{6A12835F-6BEC-48A8-9C2D-EC610DC1179F}.Debug|x86.ActiveCfg = Debug
+		{6A12835F-6BEC-48A8-9C2D-EC610DC1179F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
